@@ -46,6 +46,7 @@ O programa demonstra a implementação de dois contadores de 1 a 100, exibindo a
 - Organização do código
 
 **Exemplo de Entrada/Saída:**
+
 --- Contagem de Pares (1 a 100) usando FOR --- 2 4 6 8 10 12 ... 100
 
 --- Contagem de Pares (1 a 100) usando WHILE --- 2 4 6 8 10 12 ... 100
@@ -63,8 +64,11 @@ O programa implementa um sistema de cadastro que recebe nomes de alunos de forma
 - Impressão correta dos elementos
 
 **Exemplo de Entrada/Saída:**
+
 Nome do aluno: Ana 'Ana' cadastrado. Total: 1 alunos. 
+
 Nome do aluno: Pedro 'Pedro' cadastrado. Total: 2 alunos. 
+
 Nome do aluno: sair
 
 ---  Lista Final de Alunos ---
@@ -86,17 +90,23 @@ O programa desenvolve um sistema simples de cadastro de produtos. Os dados são 
 - Estrutura clara e funcional
 
 **Exemplo de Entrada/Saída:**
+
 Nome do Produto: Camiseta 
+
 Preço de Camiseta: R$ 50.00 
+
 Produto 'Camiseta' (R$ 50.00) cadastrado com sucesso.
 
 Nome do Produto: Bermuda 
+
 Preço de Bermuda: R$ 80.00 
+
 Produto 'Bermuda' (R$ 80.00) cadastrado com sucesso.
 
 Nome do Produto: sair
 
 ---  Produtos Cadastrados --- 
+
 Produto: Camiseta | Preço: R$ 50.00 
 
 Produto: Bermuda | Preço: R$ 80.00
