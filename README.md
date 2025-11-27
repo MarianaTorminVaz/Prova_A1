@@ -46,9 +46,6 @@ O programa demonstra a implementação de dois contadores de 1 a 100, exibindo a
 - Organização do código
 
 **Exemplo de Entrada/Saída:** 
-| Execução | Saída no Console | 
-| :--- | :--- | 
-| `python contadores_pares.py` 
 |`--- Contagem de Pares (1 a 100) usando FOR ---` | `2 4 6 8 10 12 ... 100` |
 
 
@@ -58,7 +55,7 @@ O programa demonstra a implementação de dois contadores de 1 a 100, exibindo a
 | `--- Contagem de Pares (1 a 100) usando WHILE ---` | `2 4 6 8 10 12 ... 100` |
 
 
-`--- Fim da contagem WHILE --- `|
+`--- Fim da contagem WHILE --- `
 
 ---
 
@@ -73,8 +70,6 @@ O programa implementa um sistema de cadastro que recebe nomes de alunos de forma
 - Impressão correta dos elementos
 
 **Exemplo de Entrada/Saída:** 
-| Sequência de Comandos |
-| :--- | 
 | ` Nome do aluno: Ana` |
 
 | `'Ana' cadastrado. Total: 1 alunos.` |
@@ -109,8 +104,6 @@ O programa desenvolve um sistema simples de cadastro de produtos. Os dados são 
 - Estrutura clara e funcional
 
 **Exemplo de Entrada/Saída:** 
-| Sequência de Comandos | 
-| :--- |
 | `Nome do Produto: Camiseta` |
 
 
