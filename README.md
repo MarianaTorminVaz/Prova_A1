@@ -46,6 +46,7 @@ O programa demonstra a implementação de dois contadores de 1 a 100, exibindo a
 - Organização do código
 
 **Exemplo de Entrada/Saída:** 
+
 |`--- Contagem de Pares (1 a 100) usando FOR ---` | `2 4 6 8 10 12 ... 100` |
 
 
@@ -70,6 +71,7 @@ O programa implementa um sistema de cadastro que recebe nomes de alunos de forma
 - Impressão correta dos elementos
 
 **Exemplo de Entrada/Saída:** 
+
 | ` Nome do aluno: Ana` |
 
 | `'Ana' cadastrado. Total: 1 alunos.` |
@@ -104,6 +106,7 @@ O programa desenvolve um sistema simples de cadastro de produtos. Os dados são 
 - Estrutura clara e funcional
 
 **Exemplo de Entrada/Saída:** 
+
 | `Nome do Produto: Camiseta` |
 
 
