@@ -6,7 +6,7 @@ Critério de Entrega: Repositório público no GitHub, com pastas organizadas e 
 
 ##  Estrutura do Repositório (Organização - 1,0 pt)
 
-O projeto está organizado em quatro espaços de código, cada uma contendo o código Python do exercício correspondente:
+O projeto está organizado em quatro pastas, cada uma contendo o código Python do exercício correspondente:
 
 - `Estruturas_Condicionais`
 - `Estruturas_de_Repeticao`
@@ -49,20 +49,13 @@ O programa demonstra a implementação de dois contadores de 1 a 100, exibindo a
 | Execução | Saída no Console | 
 | :--- | :--- | 
 | `python contadores_pares.py` 
-|`--- Contagem de Pares (1 a 100) usando FOR ---`
-
-
-`2 4 6 8 10 12 ... 100`
+|`--- Contagem de Pares (1 a 100) usando FOR ---` | `2 4 6 8 10 12 ... 100` |
 
 
 `--- Fim da contagem FOR ---`
 
 
-
-`--- Contagem de Pares (1 a 100) usando WHILE ---`
-
-
-`2 4 6 8 10 12 ... 100`
+| `--- Contagem de Pares (1 a 100) usando WHILE ---` | `2 4 6 8 10 12 ... 100` |
 
 
 `--- Fim da contagem WHILE --- `|
@@ -80,19 +73,19 @@ O programa implementa um sistema de cadastro que recebe nomes de alunos de forma
 - Impressão correta dos elementos
 
 **Exemplo de Entrada/Saída:** 
-| Sequência de Comandos | Saída no Console | 
-| :--- | :--- | 
-|` Nome do aluno: Ana`
+| Sequência de Comandos |
+| :--- | 
+| ` Nome do aluno: Ana` |
+
+| `'Ana' cadastrado. Total: 1 alunos.` |
 
 
-`Nome do aluno: Pedro`
+| `Nome do aluno: Pedro` |
+
+| `'Pedro' cadastrado. Total: 2 alunos.` |
 
 
-`Nome do aluno: sair` | `'Ana' cadastrado. Total: 1 alunos.`
-
-
-`'Pedro' cadastrado. Total: 2 alunos.`
-
+| `Nome do aluno: sair` | 
 
 
 ---  Lista Final de Alunos ---
@@ -101,7 +94,7 @@ O programa implementa um sistema de cadastro que recebe nomes de alunos de forma
 `1. Ana`
 
 
-`2. Pedro` |
+`2. Pedro` 
 
 ---
 
@@ -116,31 +109,31 @@ O programa desenvolve um sistema simples de cadastro de produtos. Os dados são 
 - Estrutura clara e funcional
 
 **Exemplo de Entrada/Saída:** 
-| Sequência de Comandos | Saída no Console | 
-| :--- | :--- | 
-| `Nome do Produto: Camiseta`
+| Sequência de Comandos | 
+| :--- |
+| `Nome do Produto: Camiseta` |
 
 
-`Preço de Camiseta: R$ 50.00`
+| `Preço de Camiseta: R$ 50.00` |
+
+| `Produto 'Camiseta' (R$ 50.00) cadastrado com sucesso.` |
 
 
-`Nome do Produto: Bermuda`
+| `Nome do Produto: Bermuda` |
 
 
-`Preço de Bermuda: R$ 80.00`
+| `Preço de Bermuda: R$ 80.00` |
+
+| `Produto 'Bermuda' (R$ 80.00) cadastrado com sucesso.` |
 
 
-`Nome do Produto: sair` | `Produto 'Camiseta' (R$ 50.00) cadastrado com sucesso.`
-
-
-`Produto 'Bermuda' (R$ 80.00) cadastrado com sucesso.`
-
+| `Nome do Produto: sair` |
 
 
 ---  Produtos Cadastrados ---
 
 
-`Produto: Camiseta | Preço: R$ 50.00`
+`Produto: Camiseta | Preço: R$ 50.00` 
 
 
 `Produto: Bermuda | Preço: R$ 80.00 |`
