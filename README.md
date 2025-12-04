@@ -120,7 +120,7 @@ Solução: O "Gerenciador de Participantes" utiliza uma Lista como seu principal
 
 ---
 
-### 4.  Dicionários (`cadastro_produtos.py`) - 1,0 pt
+### 4.  Dicionários - 1,0 pt
 
 **História do Projeto: O Catálogo Inteligente**
 
