@@ -19,10 +19,14 @@ Cenário: Imagine que estamos desenvolvendo um Sistema de Gestão de Eventos e P
 
 A Solução: O projeto é estruturado em quatro módulos Python independentes, cada um resolvendo uma parte desse cenário, aplicando uma estrutura de dados ou controle de fluxo específica.
 
-Conteúdo / Tarefa Implementada / Pontuação
+`Conteúdo / Tarefa Implementada / Pontuação`
+
 Estruturas Condicionais / Verificação de Idade para Entrada em Eventos / "1,0 pt "
+
 Estruturas de Repetição / Contador de 1 a 100, exibindo apenas Pares (com for e while) / "1,0 pt "
+
 Listas / Cadastro de Nomes de Inscritos/Participantes / "1,0 pt "
+
 Dicionários / Cadastro Simples de Produtos (Nome e Preço) / "1,0 pt "
 
 ##  Atividades Práticas e Critérios de Avaliação
